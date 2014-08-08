@@ -1,0 +1,146 @@
+Wikimedia Foundation
+Page d'aide sur l'homonymie Ne doit pas être confondu avec MediaWiki.
+Wikimedia Foundation
+Image illustrative de l'article Wikimedia Foundation
+Région  Monde Monde
+Création    20 juin 2003 à Saint-Petersburg, Floride
+Type    Foundation (501c3)
+Siège   San Francisco, Californie
+Drapeau des États-Unis États-Unis
+Coordonnées     37° 47′ 13″ N 122° 23′ 59″ O  
+Budget  $25 millions (2012)1
+Membre(s)   350 000 (2005)
+Effectifs   2082 (juillet 2014)
+Fondateur   Jimmy Wales
+Directrice générale     Lila Tretikov
+Président du conseil d'administration   Jan-Bart de Vreede
+Site web    http://wikimediafoundation.org
+
+Géolocalisation sur la carte : États-Unis
+(Voir situation sur carte : États-Unis)
+Wikimedia Foundation
+
+    (Voir situation sur carte : Californie)
+
+modifier Consultez la documentation du modèle
+
+Wikimedia Foundation, Inc. est une organisation à but non lucratif (foundation 501(c)(3))3 régie par les lois de l'État de Floride aux États-Unis4. Son existence officielle a été annoncée5 le 20 juin 2003, par Jimmy Wales, cofondateur de Wikipédia. Elle est souvent appelée la Fondation Wikimedia en français.
+
+Wikimedia Foundation, Inc. est l'organisation qui héberge les projets en ligne Wikipédia, Wiktionnaire, Wikiquote, Wikibooks, Wikimedia Commons, Wikisource, Wikispecies, Wikinews, Wikiversity, Wikivoyage et Wikidata développés grâce au logiciel MediaWiki.
+
+Sommaire
+
+    1 Objectifs
+    2 Conseil d'administration
+        2.1 Chronologie des présidents
+    3 Création
+    4 Budgets et ressources
+        4.1 Partenariat avec Orange
+        4.2 Partenariat avec Facebook
+        4.3 Profils des donateurs
+    5 Projets
+        5.1 Licences
+        5.2 Organisations locales
+    6 Notes et références
+    7 Voir aussi
+        7.1 Liens externes
+
+Objectifs
+
+La Wikimedia Foundation a pour finalité de promouvoir la croissance et le développement de projets contenant du savoir libre fondés sur le principe du wiki, et d'en distribuer le contenu publiquement et gratuitement6.
+
+L'association à but non lucratif possède tous les serveurs installés en Floride sur lesquels sont hébergés les projets Wikimedia, les sociétés Kennisnet à Amsterdam7 et Yahoo! en Corée du Sud hébergent quant à elles des serveurs cache pour les projets[réf. souhaitée]. La Wikimedia Foundation possède de nombreux noms de domaines, les droits sur les logos et certains noms de marque8.
+
+Les usagers et participants aux projets Wikimedia peuvent se rencontrer à la conférence annuelle internationale Wikimania.
+Conseil d'administration
+
+En janvier 2004, Jimmy Wales a nommé Tim Shell et Michael Davis membres du conseil d'administration9 de Wikimedia Foundation. En juin 2004, une élection a été menée au sein des communautés des différents projets pour élire deux membres supplémentaires. Après un mois de campagne, puis une élection tenue en ligne pendant deux semaines, Angela Beesley et Florence Devouard ont été élues10 au conseil, en tant que représentantes de tous les participants des différents projets Wikimédia. Toutes deux ont été réélues en juin 200511. Le 28 octobre 2006, Florence Devouard a été élue présidente du conseil d'administration12. Elle est remplacée, le 17 juillet 2008, par Michael Snow, avocat américain13. En 2009, Matt Halprin a été désigné comme neuvième membre du Board après un don de deux millions de dollars14 d'Omidyar Network. Son mandat a été prolongé d'un an par le conseil d'administration de Wikimedia Foundation15.
+Chronologie des présidents
+
+    2003 - 2006 : Jimmy Wales
+    2006 - 2008 : Florence Devouard
+    2008 - 2010 : Michael Snow
+    2010 - 2012 : Ting Chen
+    2012 - 2013 : Kat Walsh
+    Depuis 2013 : Jan-Bart de Vreede
+
+Création
+Organigramme (janvier 2008)
+
+Le nom « Wikimedia » a été proposé en mars 2003 par Sheldon Rampton16. L'annonce de la création de la Wikimedia Foundation a été faite par Jimmy Wales en juin 2003 en ces termes :
+
+    « Je suis heureux d'annoncer la création de la Wikimedia Foundation Inc., une organisation à but non lucratif régie par la loi de Floride, États-Unis. Je transfère à cette nouvelle organisation les actifs suivants :
+
+        Tous les noms de domaine Nupedia.com/net/org/etc.
+        Tous les noms de domaine Wikipedia.com/net/org/etc.
+        Tous les copyrights pour les logiciels ou les articles qui étaient auparavant la propriété de Bomis, Inc. et qui sont déjà sous une licence « copyleft » (Ceci inclut les travaux réalisés sous contrat par Jason, Tim, Larry, Toan, Liz, et moi-même, ainsi que d'autres employés de Bomis qui auraient travaillé sur ces projets pendant leur travail, mais n'inclut pas ceux réalisés en dehors de leur temps de travail ou lorsqu'ils n'étaient pas employés de Bomis.)
+
+            (Tout cela était déjà sous licence GNU GPL ou GNU FDL, c'est donc simplement une formalité. Mais même dans ce cas, nous voulons donner un bon exemple.)
+
+        De plus, je donne tout le résultat de mon travail personnel sous copyright déjà sous licence GNU GPL ou GNU FDL, pour Wikipédia et Nupedia à la Wikimedia Fondation. »
+
+Budgets et ressources
+Développement financier de la Wikimedia Fondation depuis 2003 Wikimedia Foundation financial development 2003–2013
+
+         Support and Revenue
+         Expenses
+         Net assets at year-end
+    Wikimedia Foundation, Inc. Financial Statements
+
+Répartition des dépenses et des revenus en octobre 2013
+
+Depuis 2007, un excédent de trésorerie correspondant à près du tiers de ses ressources annuelles est mis en réserves. Sur son budget de 20,4 millions de dollars sur l'exercice 2010/2011, 16 millions proviennent de 500 000 « petits dons »17. La Wikimedia Foundation fonctionne pour l'essentiel par l'intermédiaire de dons. Les autres ressources proviennent de subventions ou de prix d'excellence[Combien ?]. La majeure partie des ressources sont utilisées pour acheter de nouveaux serveurs et payer l'hébergement18.
+
+Une très faible partie des revenus provient de la gestion des droits des marques : seuls Orange et le réseau social Facebook payent pour utiliser la marque et les contenus de Wikipédia19.
+Partenariat avec Orange
+
+En avril 2009, la Wikimedia Foundation signe un partenariat avec Orange (filiale du groupe français France Télécom) afin de développer des fonctionnalités de l’encyclopédie Wikipédia susceptibles d’élargir le libre accès à la connaissance20. Orange est autorisé à utiliser la marque « Wikipédia » pour proposer à ses clients un « accès privilégié » et particulier aux contenus des projets Wikimédia.
+
+Les détails financiers du partenariat n'ont pas été publiés[réf. nécessaire]. Dans un premier temps, Orange a proposé l'intégration du contenu de l'encyclopédie Wikipédia à ses portails internet et mobile ; par la suite, l'opérateur devrait mettre à disposition des utilisateurs des services innovants comme l'accès à l'encyclopédie directement depuis la télévision dans le cadre d'une offre internet triple-play ou encore grâce à la création de widgets web et mobiles21.
+
+L'intégration sur les portails Orange est actuellement effective (2012)22.
+Partenariat avec Facebook
+Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue !
+
+En avril 2010, Facebook a signé un partenariat avec la fondation Wikimedia sur l’utilisation de la marque Wikipédia. Facebook apporte un soutien technique aux équipes de Wikimedia Foundation pour faire face aux montées en charge dues à la fréquentation du site et afin de générer du trafic vers Wikipédia23.
+Profils des donateurs
+
+Wikimedia Foundation garantit son indépendance en sollicitant des contributions financières auprès d'un large nombre de donateurs24 ; les petits dons représentent ainsi en 2009 environ 8 millions de dollars collectés auprès de 240 000 individus et organisations25.
+
+Wikimedia se réserve le droit de refuser certains dons, afin de rester libre de toute influence. Ses principaux donateurs26 sont :
+
+    2007 : Virgin Unite27
+    2008 : $3 millions d’Alfred P. Sloan Foundation
+    2009 : $2 millions d’Omidyar Network
+    2010 : $2 millions de Google28
+
+Projets
+Logos des différents projets
+
+Tous les projets fonctionnent avec le moteur de wiki MediaWiki, développé par le premier salarié de la fondation payé à temps plein, Brion Vibber29. Le développement du logiciel et son suivi dans sa version actuelle sont sous la responsabilité de Tim Starling, époux d'Angela Beesley.
+
+classés par défaut suivant leur ordre de création
+Logo    Projet  Description     Site web    Date de création
+Wikipedia-logo.png  Wikipédia   une encyclopédie    http://wikipedia.org    15 janvier 2001
+Wikimedia Community Logo.svg    Meta-Wiki   un wiki dédié à la coordination des projets Wikimedia   http://meta.wikimedia.org   9 novembre 2001
+Wiktionary-logo.svg     Wiktionnaire    un dictionnaire et thésaurus    http://wiktionary.org   12 décembre 2002
+Wikiquote-logo.svg  Wikiquote   un recueil de citations     http://wikiquote.org    27 juin 2003
+Wikibooks-logo.svg  Wikibooks   un ensemble de textes didactiques   http://www.wikibooks.org    10 juillet 2003
+Wikisource-logo.svg     Wikisource  un recueil de textes dans le domaine public     http://wikisource.org   23 novembre 2003
+Commons-logo.svg    Wikimedia Commons   une bibliothèque multimédia     http://commons.wikimedia.org    7 septembre 2004
+Wikinews-logo.svg   Wikinews    un site d'informations  http://wikinews.org     décembre 2004
+Wikispecies-logo.svg    Wikispecies     un répertoire du vivant     http://species.wikimedia.org    août 2004
+Wikimania.svg   Wikimania   une conférence internationale annuelle  http://wikimania2011.wikimedia.org/wiki/Main_Page   août 2005
+Incubator-logo.svg  Incubator   une communauté linguistique     http://incubator.wikimedia.org/wiki/Incubator:Main_Page     juin 2006
+Wikiversity-logo.svg    Wikiversity     une communauté pédagogique  http://www.wikiversity.org  décembre 2006
+Wikivoyage-Logo-v3-icon.svg     Wikivoyage  un guide de voyage  http://www.wikivoyage.org/  octobre 2012
+Wikidata-logo.svg   Wikidata    une base de connaissances   http://www.wikidata.org/    novembre 2012
+
+D'autres projets sont également accessibles dans les coulisses de metawiki30.
+Licences
+
+En mars 2009, la Wikimedia Foundation invite la communauté Wikimedia à voter sa proposition de changer les termes de la licence des contenus Wikimedia de façon à ce que ces contenus soient disponibles sous Creative Commons Attribution-ShareAlike license (CC-BY-SA), tout en maintenant une double licence avec la GNU Free Documentation License (GFDL)31, à l'exception de Wikinews (sous CC-BY) et de Wikidata (sous CCO).
+Organisations locales
+Schéma organisationnel début 2013
+
+Wikimedia Foundation fédère un réseau international d'organisations associées, les chapitres locaux (appelés « chapter »).

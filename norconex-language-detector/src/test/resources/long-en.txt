@@ -1,0 +1,160 @@
+Wikimedia Foundation
+From Wikipedia, the free encyclopedia
+"Wikimedia" redirects here. It is not to be confused with MediaWiki or Wikimedia Commons.
+
+Coordinates: 37.78697°N 122.399677°W
+Wikimedia Foundation, Inc. Wikimedia Foundation RGB logo with text.svg
+Logo of the Wikimedia Foundation
+Founded     St. Petersburg, Florida, U.S.
+June 20, 2003
+Founder     Jimmy Wales
+Type    501(c)(3) charitable organization
+Focus   free, open content, wiki-based internet projects
+Location    
+
+    San Francisco, California, United States / Los Angeles, California (registered agent)
+
+Area served     worldwide
+Method  Wikipedia, Wiktionary, Wikiquote, Wikibooks, Wikisource, Wikimedia Commons, Wikispecies, Wikinews, Wikiversity, Wikidata, Wikivoyage, Wikimedia Incubator and Meta-Wiki
+Key people  Jan-Bart de Vreede, chair of the board[1]
+Lila Tretikov, Executive Director
+Revenue     Increase US$48.6 million[2]
+Expenses    negative increase $35.7 million[2]
+Employees   208 (as of July 2014)[3]
+Volunteers  350,000 (2005)[4]
+Website     wikimediafoundation.org
+
+The Wikimedia Foundation (WMF) is an American non-profit and charitable organization headquartered in San Francisco, California, that operates many wikis. The foundation is mostly known for hosting Wikipedia, an Internet encyclopedia which ranks in the top-ten most-visited websites worldwide;[5] as well as Wiktionary, Wikiquote, Wikibooks, Wikisource, Wikimedia Commons, Wikispecies, Wikinews, Wikiversity, Wikidata, Wikivoyage, Wikimedia Incubator, and Meta-Wiki. It also owned the now-defunct Nupedia.
+
+The organization was founded in 2003 by Jimmy Wales, co-founder of Wikipedia, as a way to fund Wikipedia and its sister projects through non-profit means.[6][7]
+
+As of 2013, the foundation employs more than 142 people, with revenues of US$48.6 million and cash equivalents of $22.2 million.[2] Lila Tretikov leads the foundation as its executive director, while Jan-Bart de Vreede serves as chairman of the board.
+
+Contents
+
+    1 Goal
+    2 History
+    3 Projects and initiatives
+        3.1 Wikimedia projects
+        3.2 Chapters
+        3.3 Wikimania
+        3.4 Strategic plan
+        3.5 Wikipedia Usability Initiative
+        3.6 Public Policy Initiative
+    4 Technology
+        4.1 Hardware
+        4.2 Softwаrе
+    5 Finances
+        5.1 Grants
+    6 Officers and staff
+        6.1 First appointments
+        6.2 Notable employees
+        6.3 Board of Trustees
+        6.4 Advisory board
+        6.5 Committees
+    7 Disputes and lawsuits
+    8 See also
+    9 References
+    10 External links
+
+Goal
+
+The Wikimedia Foundation falls under section 501(c)(3) of the US Internal Revenue Code as a public charity. Its National Taxonomy of Exempt Entities (NTEE) code is B60 (Adult, Continuing education).[8][9] The foundation's by-laws declare a statement of purpose of collecting and developing educational content and to disseminate it effectively and globally.[10]
+
+The Wikimedia Foundation's stated goal is to develop and maintain open content, wiki-based projects and to provide the full contents of those projects to the public free of charge.[11] This is possible thanks to its Terms of Use (updated and approved on June 2009, to adopt CC-BY-SA license).[citation needed]
+History
+
+In 2001, Jimmy Wales, an Internet entrepreneur, and Larry Sanger, a software developer, founded Wikipedia, an Internet encyclopedia. The project was originally funded by Bomis, Wales' for-profit business. However, as Wikipedia's popularity skyrocketed, revenues to fund the project stagnated. Since Wikipedia became a drain on Bomis' resources, Wales and Sanger, thought of a different way to fund the project – charity.[6] The Wikimedia Foundation was created from Wikipedia and Nupedia on June 20, 2003.[7] It applied to the United States Patent and Trademark Office to trademark Wikipedia on September 17, 2004. The mark was granted registration status on January 10, 2006. Trademark protection was accorded by Japan on December 16, 2004, and, in the European Union, on January 20, 2005. There were plans to license the use of the Wikipedia trademark for some products, such as books or DVDs.[12]
+
+In April 2005, the US Internal Revenue Service approved the foundation as an educational foundation in the category "Adult, Continuing education", meaning all contributions to the foundation are tax-deductible for US federal income tax purposes.
+
+On December 11, 2006, the Foundation's board noted that the corporation could not become the membership organization initially planned but never implemented due to an inability to meet the registration requirements of Florida statutory law. Accordingly, the by-laws were amended to remove all reference to membership rights and activities. The decision to change the bylaws was passed by the board unanimously.[13]
+
+On September 25, 2007, the foundation's board gave notice that the operations would be moving to the San Francisco Bay Area. Major considerations cited for choosing San Francisco were proximity to like-minded organizations and potential partners, a better talent pool, as well as cheaper and more convenient international travel than is available from St. Petersburg, Florida.[14][15][16]
+
+The one billionth edit to a Wikimedia project took place on April 16, 2010.[17]
+Projects and initiatives
+Wikimedia projects
+Main article: Wikimedia projects
+
+In addition to Wikipedia, the foundation operates other wikis that follow the free content model with their main goal being the dissemination of knowledge. These include:
+Wikibooks logo  Name: Wikibooks
+Description: collection of textbooks
+Website: www.wikibooks.org  Wikinews logo   Name: Wikinews
+Description: online newspaper
+Website: www.wikinews.org   Wikispecies logo    Name: Wikispecies
+Description: taxonomic catalogue of species
+Website: species.wikimedia.org
+Wikidata logo   Name: Wikidata
+Description: knowledge base
+Website: www.wikidata.org   Wikipedia logo  Name: Wikipedia
+Description: online encyclopedia
+Website: www.wikipedia.org  Wikiversity logo    Name: Wikiversity
+Description: collection of tutorials and courses, while also serving as a hosting point to coordinate research.
+Website: www.wikiversity.org
+Wikimedia Commons logo  Name: Wikimedia Commons
+Description: repository of images, sounds, videos, and general media.
+Website: commons.wikimedia.org  Wikiquote logo  Name: Wikiquote
+Description: collection of quotations
+Website: www.wikiquote.org  Wikivoyage logo     Name: Wikivoyage
+Description: travel guide
+Website: www.wikivoyage.org
+Wikimedia Meta logo     Name: Meta-Wiki
+Description: central site to coordinate all Wikimedia projects.
+Website: meta.wikimedia.org     Wikisource logo     Name: Wikisource
+Description: digital library
+Website: www.wikisource.org     Wiktionary logo     Name: Wiktionary
+Description: online dictionary and thesaurus
+Website: www.wiktionary.org
+Chapters
+(dark blue) are existing chapters. (dark turquoise) indicates a chapter has been board approved but not yet founded. (green) indicates a chapter is in the planning stages. (light blue) indicates a chapter in discussion.
+Main article: List of Wikimedia chapters
+
+Wikimedia chapters are national (or in some cases sub-national) not-for-profit organisations created to promote the interests of Wikimedia projects locally. They support the foundation, the Wikimedia community and Wikimedia projects in different ways—by collecting donations, organizing local events/projects and conducting outreach.[18] The chapters are independent of the Wikimedia Foundation with no legal control of nor responsibility for the Wikimedia projects. The organisations are recognised and overseen by a Chapters Committee; following approval they enter into a "Chapters Agreement" with the foundation.[19][20] As of April 2012 there were 39 recognised Wikimedia chapters.[21]
+Wikimania
+Main article: Wikimania
+
+Each year, an international conference called Wikimania brings the people together who are involved in the Wikimedia organizations and projects. The first Wikimania was held in Frankfurt, Germany, in 2005. Nowadays, Wikimania is organized by a committee supported usually by the national chapter, in collaboration with the Wikimedia Foundation. In 2013, Wikimania took place in Hong Kong. In 2014, Wikimania will take place in London.
+Strategic plan
+File:Wikimedia Strategic Plan.ogvPlay media
+Video explaining the Wikimedia Strategic Plan
+
+In response to the growing size and popularity of Wikipedia, the Wikimedia Foundation announced a Strategic Plan to improve and sustain the Wikimedia movement. The plan was announced in July 2009, followed by a process of interviews and surveys with people from across the Wikimedia movement, including board of trustees, members of staff and volunteer editors.[22] The ongoing plan was intended to be the basis of a five-year plan to further outreach, improve content quality and quality control, and optimising operational areas such as finance and infrastructure.[23]
+Wikipedia Usability Initiative
+
+In December 2008, the Wikimedia Foundation announced a restricted donation grant of $890,000 from the Stanton Foundation, to improve Wikipedia's accessibility.[24] Later named the Wikipedia Usability Initiative, the grant was used by the Wikimedia Foundation to appoint project-specific staff to the technology department.[25]
+
+A series of surveys were conducted throughout 2009. This began with a qualitative environment survey on MediaWiki extensions, followed by a Qualitative Statistical Survey focusing on volume of edits, number of new users, and related statistics. In March 2009, a usability and experience study was carried out on new and non-editors of the English Wikipedia. The aim was to discover what obstacles participants encountered while editing Wikipedia, ranging from small changes to more complicated syntax such as templates. The study recruited 2500 people for in-person laboratory testing via the Wikipedia website, which was filtered down to ten participants. The results were collated and used by the technology team to improve Wikipedia's usability.[26] The Usability and Experience Study was followed up by the Usability, Experience and Progress Study in September 2009. This study recruited different new and non-editors for in-person trials on a new Wikipedia skin.[27]
+
+The initiative ultimately culminated in a new Wikipedia skin named Vector, constructed based on the results of the usability studies. This was introduced by default in stages, beginning in May 2010.[28]
+Public Policy Initiative
+
+In May 2010, the Wikimedia Foundation announced the Public Policy Initiative, following a $1.2 million donation by the Stanton Foundation. The Initiative was set up to improve articles relating to public policy–related issues.[29] As part of the initiative, Wikipedia collaborated with ten universities to help students and professors create and maintain articles relating to public policy.[30] Volunteer editors of Wikipedia, known as "ambassadors", provided assistance to students and professors. This was either done on campus sites or online.[31]
+Technology
+
+The foundation employs technology including hardware and software to run its projects.
+Hardware
+Diagram showing flow of data between Wikipedia's servers. Twenty database servers talk to hundreds of Apache servers in the backend; Apaches talk to fifty squids in the frontend.
+Overview of system architecture, December 2010. See server layout diagrams on Meta-Wiki.
+Wikimedia Foundation servers
+
+Wikimedia currently runs on dedicated clusters of Linux servers (mainly Ubuntu),[32][33] with a few OpenSolaris machines for ZFS. As of December 2009, there were 300 in Florida and 44 in Amsterdam.[34] Wikipedia employed a single server until 2004, when the server setup was expanded into a distributed multitier architecture. In January 2005, the project ran on 39 dedicated servers in Florida. This configuration included a single master database server running MySQL, multiple slave database servers, 21 web servers running the Apache HTTP Server, and seven Squid cache servers.
+
+Wikipedia receives between 25,000 and 60,000-page requests per second, depending on the time of day.[35] Page requests are first passed to a front-end layer of Squid-caching servers.[36] Further statistics are available based on a publicly available 3-months Wikipedia access trace.[37] Requests that cannot be served from the Squid cache are sent to load-balancing servers running the Linux Virtual Server software, which in turn pass the request to one of the Apache web servers for page rendering from the database. The web servers deliver pages as requested, performing page rendering for all the language editions of Wikipedia. To increase speed further, rendered pages are cached in a distributed memory cache until invalidated, allowing page rendering to be skipped entirely for most common page accesses.
+Softwаrе
+See also: MediaWiki and VisualEditor
+
+The operation of Wikimedia depends on MediaWiki, a custom-made, free and open-source wiki software platform written in PHP and built upon the MySQL database.[38] The software incorporates programming features such as a macro language, variables, a transclusion system for templates, and URL redirection. MediaWiki is licensed under the GNU General Public License and it is used by all Wikimedia projects, as well as many other wiki projects. Originally, Wikipedia ran on UseModWiki written in Perl by Clifford Adams (Phase I), which initially required CamelCase for article hyperlinks; the present double bracket style was incorporated later. Starting in January 2002 (Phase II), Wikipedia began running on a PHP wiki engine with a MySQL database; this software was custom-made for Wikipedia by Magnus Manske. The Phase II software was repeatedly modified to accommodate the exponentially increasing demand. In July 2002 (Phase III), Wikipedia shifted to the third-generation software, MediaWiki, originally written by Lee Daniel Crocker. Several MediaWiki extensions are installed[39] to extend the functionality of MediaWiki software. In April 2005, a Lucene extension[40][41] was added to MediaWiki's built-in search and Wikipedia switched from MySQL to Lucene for searching. Currently Lucene Search 2.1,[42] which is written in Java and based on Lucene library 2.3,[43] is used.
+
+Wikimedia Foundation also uses CiviCRM[44] and WordPress.[45]
+Finances
+See also: wmf:Financial reports
+Financial development of the Wikimedia Foundation, 2003 - 2013
+  Support and Revenue
+  Expenses
+  Net assets at year-end
+Wikimedia Foundation, Inc. Financial Statements
+
+The Wikimedia Foundation relies on public contributions and grants to fund its mission.[46] It is exempt from federal income tax[46][47] and from state income tax.[46][48] It is not a private foundation, and contributions to it qualify as tax-deductible charitable contributions.[46] The continued technical and economic growth of each of the Wikimedia projects is dependent mostly on donations but the Wikimedia Foundation also increases its revenue by alternative means of funding such as grants, sponsorship, services and brand merchandising. The Wikimedia OAI-PMH update feed service, targeted primarily at search engines and similar bulk analysis and republishing, has been a source of revenue for several years,[46] but is no longer open to new customers.[49] DBpedia was given access to this feed free of charge.[50]
+
+Since the end of fiscal year ended 2004, the Foundation's net assets have grown from $57K[51] to $45.2M at the end of fiscal year ended June 30, 2013.[2] Under the leadership of Sue Gardner, who joined the Wikimedia Foundation in 2007, the Foundation's staff levels, number of donors and revenue have seen very significant growth.[52]
