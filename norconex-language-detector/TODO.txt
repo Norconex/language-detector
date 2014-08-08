@@ -1,4 +1,5 @@
 SUGGESTIONS/THINGS TO DO:
 =========================
 
-- ...
+- Add command-line support
+- Add running as a server/service support
