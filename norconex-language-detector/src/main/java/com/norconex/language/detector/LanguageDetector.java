@@ -47,13 +47,13 @@ public class LanguageDetector {
     private static final Logger LOG = 
             LogManager.getLogger(LanguageDetector.class);
     
-    public static final String[] DEFAULT_SHORTTEXT_LANGUAGES = new String[] {
+    private static final String[] DEFAULT_SHORTTEXT_LANGUAGES = new String[] {
         "ar", "bg", "bn", "ca", "cs", "da", "de", "el", "en", "es", "et", "fa",
         "fi", "fr", "gu", "he", "hi", "hr", "hu", "id", "it", "ja", "ko", "lt",
         "lv", "mk", "ml", "nl", "no", "pa", "pl", "pt", "ro", "ru", "si", "sq",
         "sv", "ta", "te", "th", "tl", "tr", "uk", "ur", "vi", "zh-cn", "zh-tw" 
     };
-    public static final String[] DEFAULT_LONGTEXT_LANGUAGES = new String[] {
+    private static final String[] DEFAULT_LONGTEXT_LANGUAGES = new String[] {
         "af", "ar", "bg", "bn", "cs", "da", "de", "el", "en", "es", "et", "fa",
         "fi", "fr", "gu", "he", "hi", "hr", "hu", "id", "it", "ja", "kn", "ko",
         "lt", "lv", "mk", "ml", "mr", "ne", "nl", "no", "pa", "pl", "pt", "ro",
@@ -65,9 +65,10 @@ public class LanguageDetector {
         Arrays.sort(DEFAULT_SHORTTEXT_LANGUAGES);
     }
     
-    private static int MIN_LANGUAGES = 2;
-    private static String LONG_TEXT_PATH = "/profiles/longtext/";
-    private static String SHORT_TEXT_PATH = "/profiles/shorttext/";
+    private static final int MIN_LANGUAGES = 2;
+    private static final int MAX_WORD_LENGTH = 3;
+    private static final String LONG_TEXT_PATH = "/profiles/longtext/";
+    private static final String SHORT_TEXT_PATH = "/profiles/shorttext/";
     private static final LanguageProfile[] EMPTY_PROFILES = 
             new LanguageProfile[]{};
     
@@ -131,6 +132,15 @@ public class LanguageDetector {
         initProfilesFromTags(shortText, languageTags);
     }
 
+    public static String[] getDefaultShortTextLanguages() {
+        return Arrays.copyOf(DEFAULT_SHORTTEXT_LANGUAGES,
+                DEFAULT_SHORTTEXT_LANGUAGES.length);
+    }
+    public static String[] getDefaultLongTextLanguages() {
+        return Arrays.copyOf(DEFAULT_LONGTEXT_LANGUAGES,
+                DEFAULT_LONGTEXT_LANGUAGES.length);
+    }
+    
     public DetectedLanguages detect(Reader reader) 
             throws LanguageDetectorException {
         
@@ -185,32 +195,6 @@ public class LanguageDetector {
     
     private LanguageProfile getClassPathProfile(
             boolean shortText, String langTag) {
-//        String[] primaryLangs = DEFAULT_LONGTEXT_LANGUAGES;
-//        String[] secondaryLangs = DEFAULT_SHORTTEXT_LANGUAGES;
-//        String primaryPath = LONG_TEXT_PATH; 
-//        String secondaryPath = SHORT_TEXT_PATH; 
-//        if (shortText) {
-//            primaryLangs = DEFAULT_SHORTTEXT_LANGUAGES;
-//            secondaryLangs = DEFAULT_LONGTEXT_LANGUAGES;
-//            primaryPath = SHORT_TEXT_PATH;
-//            secondaryPath = LONG_TEXT_PATH;
-//        }
-//        String path = null;
-//        if (isSupported(langTag, primaryLangs)) {
-//            path = primaryPath;
-//        } else if (isSupported(langTag, secondaryLangs)) {
-//            path = secondaryPath;
-//            if (LOG.isDebugEnabled()) {
-//                LOG.debug("\"" + langTag + "\" was not found under the \""
-//                        + primaryPath + "\". The one from \"" + secondaryPath
-//                        + "\" classpath will be used instead");
-//            }
-//        } else {
-//            LOG.debug("\"" + langTag + "\" detection is not supported.  "
-//                    + "No attempts to detect that language will be made.");
-//            return null;
-//        }
-        
         String path = LONG_TEXT_PATH; 
         if (shortText) {
             path = SHORT_TEXT_PATH;
@@ -218,9 +202,6 @@ public class LanguageDetector {
         return LanguageProfileLoader.loadFromClasspath(
                 getClass(), path + langTag);
     }
-//    private boolean isSupported(String lang, String[] supportedLangs) {
-//        return Arrays.binarySearch(supportedLangs, lang) >= 0; 
-//    }
     
     private void initProfiles(LanguageProfile[] languageProfiles) 
             throws LanguageDetectorException {
@@ -260,7 +241,7 @@ public class LanguageDetector {
                 wordLangProbMap.put(word, new double[langsize]);
             }
             int length = word.length();
-            if (length >= 1 && length <= 3) {
+            if (length >= 1 && length <= MAX_WORD_LENGTH) {
                 double prob = shuyoProfile.freq.get(word).doubleValue()
                         / shuyoProfile.n_words[length - 1];
                 wordLangProbMap.get(word)[index] = prob;

@@ -38,7 +38,7 @@ public class DetectedLanguages extends ArrayList<DetectedLanguage> {
         super(toDetectedLanguageList(shuyoLanguages));
     }
 
-    private final static List<DetectedLanguage> toDetectedLanguageList(
+    private static List<DetectedLanguage> toDetectedLanguageList(
             ArrayList<Language> shuyoLanguages) {
         List<DetectedLanguage> languages = new ArrayList<>();
         for (Language language : shuyoLanguages) {
