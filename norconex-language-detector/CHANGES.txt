@@ -1,4 +1,7 @@
 
+1.0.1 (????-??-??):
+===================
+- Added Sonatype repository to pom.xml for snapshot releases.
 
 1.0.0 (2014-11-25):
 ===================
