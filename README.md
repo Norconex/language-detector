@@ -1,6 +1,10 @@
 Norconex Language Detector
 ==========================
 
+This project is no longer maintained. 
+---------------------
+__This project was created to provide language-detection features to the [Norconex Importer](https://www.norconex.com/collectors/importer/) project.  The Importer project now uses Apache Tika built-in language-detection capabilities instead.__
+
 Detects languages out of any text (50+ languages supported).
 
 At the moment, it is mainly a wrapper around the great "language-detection" library from Nakatani Shuyo, with some additions:
