@@ -24,8 +24,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import com.cybozu.labs.langdetect.Detector;
 import com.cybozu.labs.langdetect.ErrorCode;
@@ -41,7 +41,7 @@ import com.cybozu.labs.langdetect.util.LangProfile;
 public class LanguageDetector {
 
     private static final Logger LOG = 
-            LogManager.getLogger(LanguageDetector.class);
+    		LoggerFactory.getLogger(LanguageDetector.class);
     
     private static final String[] DEFAULT_SHORTTEXT_LANGUAGES = new String[] {
         "ar", "bg", "bn", "ca", "cs", "da", "de", "el", "en", "es", "et", "fa",
